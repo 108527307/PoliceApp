@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/google_code_copyrighted"
+            android:title="招考信息" />
+        <item
+            android:id="@+id/nav_my_info"
+            android:icon="@drawable/ic_person_black_36dp"
+            android:title="我的信息" />
+    </group>
+
+
+    <item android:title="About">
+        <menu>
+
+
+
+            <item
+                android:id="@+id/nav_about_app"
+                android:checkable="true"
+                android:icon="@drawable/help"
+                android:title="@string/app_name" />
+        </menu>
+    </item>
+
+</menu>

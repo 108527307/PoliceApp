@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">公务员app</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="title_activity_collect">CollectActivity</string>
+    <string name="title_activity_error">ErrorActivity</string>
+    <string name="title_activity_exam">ExamActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_exam_error">ExamErrorActivity</string>
+    <string name="title_activity_his_result">HisResultActivity</string>
+    <string name="login">登录</string>
+    <string name="phone">手机号</string>
+    <string name="password">密码</string>
+    <string name="quickRegister">快速注册</string>
+    <string name="fogetPasswordQ">忘记密码</string>
+    <string name="fogetPassword">忘记密码</string>
+    <string name="register">注册</string>
+    <string name="alertPhone">输入手机号</string>
+    <string name="alertCode">输入验证</string>
+    <string name="alertPassword">输入密码</string>
+    <string name="alertPasswordOk">确认密码</string>
+    <string name="getCode">获取验证码</string>
+    <string name="protocol">点击注册即代表您同意《软件许可与服务协议》</string>
+    <string name="alertNewPassword">输入新密码</string>
+    <string name="alertNewPasswordOk">确认新密码</string>
+    <string name="resetPassword">重置密码</string>
+    <string name="delete_select">删除</string>
+    <string name="verification_code">　验证</string>
+    <string name="alert_verification_code">请输入验证码</string>
+    <string name="need_verification_code">获取验证</string>
+    <string name="share">分享</string>
+    <string name="share_from">来自「publicFunctionary」的分享:</string>
+</resources>

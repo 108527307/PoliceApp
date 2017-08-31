@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="circle_progress_view_default_size">56dp</dimen>
+    <dimen name="circle_progress_view_default_border_width">4dp</dimen>
+    <dimen name="head_layout_height">220dp</dimen>
+    <dimen name="nav_width">300dp</dimen>
+    <dimen name="detail_image_height">256dp</dimen>
+    <dimen name="top_image_height">206dp</dimen>
+    <!-- CircleIndicator -->
+    <dimen name="circle_indicator_default_height">20dp</dimen>
+    <!-- 所有标题栏大小 -->
+    <dimen name="comm_titlebar_height">48dip</dimen>
+    <!-- 返回和保存字体的大小 -->
+    <dimen name="comm_titlebar_backAndSaveTextSize">18sp</dimen>
+    <!-- 所有标题栏中间的字体的大小 -->
+    <dimen name="comm_titlebar_centerTextSize">20sp</dimen>
+    <string-array name="proviences">
+        <item>北京市</item>
+        <item>天津市</item>
+        <item>上海市</item>
+        <item>重庆市</item>
+        <item>河北省</item>
+        <item>河南省</item>
+        <item>云南省</item>
+        <item>辽宁省</item>
+        <item>黑龙江省</item>
+        <item>湖南省</item>
+        <item>安徽省</item>
+        <item>山东省</item>
+        <item>新疆省</item>
+        <item>江苏省</item>
+        <item>浙江省</item>
+        <item>江西省</item>
+        <item>湖北省</item>
+        <item>广西省</item>
+        <item>甘肃省</item>
+        <item>山西省</item>
+        <item>内蒙古省</item>
+        <item>陕西省</item>
+        <item>吉林省</item>
+        <item>福建省</item>
+        <item>贵州省</item>
+        <item>山东省</item>
+        <item>青海省</item>
+        <item>西藏</item>
+        <item>四川省</item>
+        <item>宁夏回族自治区</item>
+        <item>海南省</item>
+
+    </string-array>
+</resources>

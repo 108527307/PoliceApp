@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff5f5f5"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="30.0dip"
+    android:paddingLeft="20.0dip"
+    android:paddingRight="20.0dip"
+    android:paddingTop="30.0dip">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/account_input_shape"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/phone"
+            style="@style/input_style2"
+            android:hint="@string/alertPhone"
+            android:inputType="number"
+            android:maxLength="11" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/account_input_shape"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/code"
+            style="@style/input_style2"
+            android:hint="@string/alertCode"
+            android:inputType="number"
+            android:maxLength="6" />
+
+        <View style="@style/var_spe_line_style" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/getCode"
+                android:layout_width="120.0dip"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:paddingLeft="10.0dip"
+                android:paddingRight="10.0dip"
+                android:text="@string/getCode"
+
+                android:textSize="15.0sp" />
+
+            <ImageView
+                android:id="@+id/getCoding"
+                android:layout_width="25.0dip"
+                android:layout_height="25.0dip"
+                android:layout_centerInParent="true"
+                android:src="@drawable/icon_loading"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/user_fogot"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:layout_marginTop="35.0dip"
+        android:background="@drawable/bg_login_button"
+        android:text="提交"
+        android:textColor="#ffffffff" />
+</LinearLayout>

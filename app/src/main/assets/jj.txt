@@ -1,0 +1,978 @@
+﻿{"code":1,"content":[{"timu":{"title":" __dull he may be, he is certainly a 
+very successful top executive.","one":"Although","tow":"whatever 
+","three":"As","four":"However 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"however引导的让步状语从句,意思是无论(怎么样),从句需要倒装,即However+adj/adv+主+谓. 
+However dull he may be=Dull as he may be. although和as引导让步状语从句,指”尽管”, 
+whatever用来引导名词从句,意思是: 无论什么. 句意: 
+无论他多么地令人感到乏味.他还是一位非常成功的顶级行政人员."}},{"timu":{"title":"If only I __play the guitar 
+as well as you!","one":"would ","tow":"could ","three":"should ","four":"might 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"could表示能够,是一种能力. 
+If only引导的虚拟语气,表示”要是….该多好啊!”. 句意: 要是我能像你那样把吉他弹得那么好该多好啊!"}},{"timu":{"title":"The 
+party, __I was the guest of honour, was extremely enjoyable. ","one":"by which 
+","tow":"for which","three":"to which","four":"at 
+which"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"at 
+which. 先行词the party作介词at的宾语. 即I was the guest of honor at the party. 关系代词指代the 
+party."}},{"timu":{"title":"It's high time we __ cutting down the 
+rainforests.","one":"stopped ","tow":"had to stop","three":"shall 
+stop","four":"stop"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"stopped. 
+It is (high) time的意思是到了做…的时候了. 从句中一般用过去时构成虚拟语气. 
+此句型为历年专四考试常考句型."}},{"timu":{"title":"The student said there were a few points in 
+the essay he __ impossible to comprehend.","one":"has found","tow":"was 
+finding","three":"had found","four":"would 
+find"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"had 
+found. 考察定语从句的时态. 定语从句中的”找到问题”这一动作发生先于主句动词said,所以用had found构成过去完成时. 
+"}},{"timu":{"title":"Loudspeakers were fixed in the hall so that everyone__ an 
+opportunity to hear the speech.","one":"ought to have","tow":"must 
+have","three":"may have","four":"should 
+have"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"may. 
+so that引导目的状语从句,表示为了让每个人都有机会听到讲座. 其他选项均不符合题意. ought to have done=should have 
+done本应该做而实际未做. must have done表示对过去的肯定猜测."}},{"timu":{"title":"I am surprised__ 
+this city is a dull place to live in.","one":"that you should think","tow":"by 
+what you are thinking","three":"that you would think ","four":"with what you 
+were 
+thinking"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本句中should表示惊讶语气, 
+故不能省略. 句意:你居然会认为在这个城市居住是很无聊的,这点让我很惊讶."}},{"timu":{"title":"Susan is very 
+hardworking, but her pay is not__ for her work.","one":"enough good 
+","tow":"good enough","three":"as good enough","four":"good as 
+enough"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"enough修饰形容词副词时需要后置, 
+且不能和as结构连用."}},{"timu":{"title":"It is imperative that the government __ more 
+investment into the shipbuilding industry.","one":"attracts ","tow":"shall 
+attract","three":"attract ","four":"has 
+to"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"attract 
+考核的是虚拟语气的用法. It is imperative that sb (should)+do/V, should可以省略. 该句型在专四考试中极为常见. 
+句意:当务之急是征服应该吸引更多投资到造船业."}},{"timu":{"title":"Land belongs to the city; there is 
+__ thing as private ownership of land.","one":"no such a ","tow":"not such 
+","three":"not such a ","four":"no 
+such"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"no 
+such. There is no such (a) thing as…固定用法. 意思是: It is impossible to ….没有…. e.g. 
+There is no such a thing as free lunch. 天下没有免费的午餐. "}},{"timu":{"title":"My 
+daughter has walked eight miles today. We never guessed that she could walk__ 
+far. ","one":"/ ","tow":"such ","three":"that ","four":"as 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"that=so. 
+那么,如此. The weather today is not that cold as is 
+reported."}},{"timu":{"title":"The statistics __ that living standards in the 
+area have improved drastically in recent times.","one":"proves ","tow":"is 
+proving","three":"are proving","four":"prove 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"prove. 
+statistics表示数字数据时谓语动词用复数. The statistics prove/show 
+that„,这里表示的是一种客观状态,没有明显时态标志,所以用一般时态. "}},{"timu":{"title":"There are only ten 
+apples left in the baskets, __ the spoilt ones.","one":"not counting","tow":"not 
+to count","three":"don't count","four":"having not 
+counted"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"not 
+counting. 伴随状语. 表示不把„计算在内.=not including."}},{"timu":{"title":"It was __ we had 
+hoped ","one":"more a success than","tow":"a success more than","three":"as much 
+of a success as","four":"a success as much as 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"这题是本年专四语法考试中最难的一道题目. 
+as much of a „as是固定结构,类似的结构还有more of a „than, less of a„than, 
+如果是这些比较结构,则名词只能放在比较结构中, 如: It was as much of a success as I had hoped. He is 
+more of a sportsman than his brother. We can let you have as many copies as you 
+need. 所以选项A的正确"}},{"timu":{"title":"There used to be a petrol station near the 
+park, __?","one":"didn't it ","tow":"doesn't there","three":"usedn't 
+it?","four":"didn't 
+there"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考察反意疑问句. 
+there be 的反意疑问句就用there来进行反问."}},{"timu":{"title":"It is an offence to show __ 
+against people of different races.","one":"distinction ","tow":"difference 
+","three":"separation ","four":"discrimination 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"discrimination歧视. 
+show discrimination against sb歧视某人 distinction区别,差别. difference不同, separation分开. 
+句意:对不同种族的人表现出歧视是一种冒犯行为."}},{"timu":{"title":"A great amount of work has gone 
+into __ the Cathedral to its previous splendor. ","one":"refreshing 
+","tow":"restoring ","three":"renovating ","four":"renewing 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"restoring:使„恢复到以前面貌, 
+通常和to连用. refresh使„精神爽快, renovate更新,革新. renew更新"}},{"timu":{"title":"The thieves 
+fled with the local police close on their __.","one":"backs ","tow":"necks 
+","three":"toes 
+","four":"heels"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"heels. 
+on/at one’s heels紧跟在某人后面. 固定搭配,句意为:小偷逃跑了,当地的警察紧随其后追赶. fled逃走，逃掉( flee的过去式和过去分词 
+)； 逃离，逃避。"}},{"timu":{"title":"The economic recession has meant that job__ is a 
+rare thing.","one":"security ","tow":"safety ","three":"protection 
+","four":"secureness 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"security. 
+job security是商务英语中的词汇,意思是工作保障,职业安全感. e.g. The workers agreed to forgo a pay 
+increase for the sake of greater job security. 工人们为了工作更保险, 同意放弃增加工资的要求. 
+secure较safe更加抽象,这里工作保障应属于抽象范畴, 
+且secure的名词形式是security而非secureness."}},{"timu":{"title":"Many people nowadays 
+save money to __ for their old age.","one":"cater ","tow":"supply 
+","three":"provide ","four":"equip 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"provide 
+for准备,筹备„., cater for迎合, supply sth to sb为某人提供„, equip with用„装备, 句意: 
+现在许多人存钱是为了防老."}},{"timu":{"title":"The tone of the article __ the writer's mood 
+at the time.","one":"reproduced ","tow":"reflected ","three":"imagined 
+","four":"imitated"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"reflect反映. 
+reproduce复制,繁殖,再生产. imagine想象, imitate模仿. 
+句意:这篇文章的语调反映了当时作者的心态."}},{"timu":{"title":"This is not the right __ to ask for 
+my help; I am far too busy even to listen","one":"moment ","tow":"situation 
+","three":"opportunity ","four":"circumstance 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"moment时候, 
+situation情况, opportunity机会, circumstance 环境. 
+句意:现在不是让我帮你的时候,我忙得连听你话的时间都没有."}},{"timu":{"title":"The job of a student 
+accommodation officer__ a great many visits to landladies. ","one":"concerns 
+","tow":"offers ","three":"asks ","four":"involves 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"involve包含,涉及,使陷入„中. 
+concern涉及到, offer提供 不符合题意. 句意:学生住宿管理人员的工作包括拜访房东. "}},{"timu":{"title":"Our 
+family doctor's clinic __at the junction of two busy roads. ","one":"rests 
+","tow":"stands ","three":"stays","four":"seats 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"stands位于=lies 
+in, rest停卧,安防, stay停留, seat坐下. 根据句意,选B. 
+我们的家庭医生的诊所位于两条繁忙道路的交叉点"}},{"timu":{"title":"She was so fat that she could only 
+just __ through the door.","one":"assemble ","tow":"appear ","three":"squeeze 
+","four":"gather 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"squeeze 
+oneself through从„.中挤过去, assemble集合,聚集, appear出现, gather聚集. 
+她太胖了只能勉强从门口挤过去."}},{"timu":{"title":"After the heavy rain, a builder was called 
+to repair the roof, which was __.","one":"leaking ","tow":"trickling 
+","three":"dripping ","four":"floating 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"leaking漏. 
+trickle滴流,细流, drip滴落, float漂浮,漂动. 这里意思是维修正在漏水的房顶. 
+只有leaking合适."}},{"timu":{"title":"The reception was attended by __ members of 
+the local community.","one":"excellent ","tow":"conspicuous ","three":"prominent 
+","four":"noticeable 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"prominent杰出的, 
+突出的,显著的. excellent非常好的. conspicuous 显而易见的, noticeable易见的. 参加这次招待会的是当地的显赫人士. 
+"}},{"timu":{"title":"Share prices on the Stock Exchange plunged sharply in the 
+morning but __slightly in the afternoon. ","one":"regained ","tow":"recovered 
+","three":"restored 
+","four":"revived"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"recover指身体,心情的恢复,康复,(经济)的恢复; 
+regain恢复,复得,restore归还,修复(到原来的面貌). revive复苏,恢复: may imply recovery from a 
+deathlike state通常是指到了谷底然后复苏,振兴. 题目中提到fell sharply然后下午come back up. 
+revive强调一个由死/谷底反弹的一个过程. 故这里选recover比较合适. 且在商务英语的环境中,recover的使用频率和范围都要比revive广. 
+"}},{"timu":{"title":"His__brain has worked away on the idea of a universal 
+cure.","one":"rich ","tow":"quick ","three":"productive ","four":"fertile 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"quick敏捷的,迅速的. 
+rich丰富的,富裕的, productive 多产的, fertile 有创造力的，思想丰富的"}},{"timu":{"title":"The couple 
+has donated a not__ amount of money to the foundation. ","one":"inconsiderable 
+","tow":"inconsiderate ","three":"inaccurate 
+","four":"incomparable"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"inconsiderable少量的. 
+a not inconsiderable amount of=a large amount of, 
+inconsiderate不体谅的,考虑欠缺的,inaccurate不精确的,.incomparable无与伦比的. 
+句意:这对夫妇向这个基金会捐助了数目可观的一笔钱."}},{"timu":{"title":"There are as good fish in the sea 
+________ ever came out of it. ","one":"as ","tow":"like ","three":"than 
+","four":"so 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"as……as结构，纵然失去一个机会，不愁没有其他机会。但是，让你动心的人失去了，就不能再来了……as还是可以作为作成分的关联词来理解"}},{"timu":{"title":"Our 
+association, which has consistently pressed for greater employment opportunities 
+for the disabled, will publish ___ proposals in the near future.","one":"their 
+","tow":"our ","three":"his 
+","four":"its"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查物主代词。逗号与逗号之间的是作为插入语，是association的定语从句，在此association作为一个整体概念出现，且其定语从句中也是用单数谓语动词has 
+pressed，后面对应的物主代词也应该是单数概念的，故选D。句意：我们的协会一直在敦促给残疾人更多的就业机会，并且讲在最近公布建议书。publish公布，proposal提议；建议，press 
+for敦促； 迫切要求"}},{"timu":{"title":"Had Judy been more careful on the maths exam, 
+she ____ much better results now.","one":"would be getting","tow":"could have 
+got ","three":"must get","four":"would 
+get"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查虚拟语气（错综时间虚拟语气）。从句部分是对过去的虚拟，省略了if，因此出现倒装，但主句部分出现了明显的时间标志词now，可见是对现在的虚拟，故应该是would/could/should/might 
+do的形式，而get为瞬间动词，不用进行时，故选D。句意：如果朱迪数学考试时更认真一些，她现在成绩就会好多了。"}},{"timu":{"title":"Nine 
+is to three _____ three is to one. ","one":"when","tow":"that ","three":"which 
+","four":"what 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"这是专四考试频考知识点了：A 
+is to B what C is to D，由what引导的方式状语从句。句意：9相对于3等同于3相对于1。"}},{"timu":{"title":"Men 
+differ from animals ____ they can think and speak.","one":"for which","tow":"for 
+that","three":"in that ","four":"in 
+which"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"这也是专四考试频考的知识点之一：in 
+that引导原因状语从句。for 
+that不能引导从句，A和D都引导定语从句。句意：人之所以有别于动物在于他们能思考，会说话。"}},{"timu":{"title":"____ he 
+wanted to go out with his friends at the weekend, he had to stay behind to 
+finish his assignment.","one":"Much though","tow":"Much as","three":"As 
+much","four":"Though 
+much"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查由much 
+as引导的让步状语从句，意为“尽管”=although。而as 
+much意为“同样地，这样地”。A和D不是固定搭配。句意：尽管他想周末和朋友出去，却不得不留下完成作业。"}},{"timu":{"title":"I 
+enjoyed myself so much ____ I visited my friends in Paris last 
+year.","one":"when ","tow":"which ","three":"that ","four":"where 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查时间状语从句。四个选项都可以引导定语从句，但这里没有后面从句修饰的先行词，故出现的不是定语从句。从两部分之间的关系来看，后面部分提到了时间段，因此填入when，成为时间状语从句。句意：去年我去巴黎拜访朋友时玩得非常开心。"}},{"timu":{"title":"Which 
+of the following is INCORRECT? ","one":"All his lectures were 
+boring.","tow":"Half his money was gone.","three":"Her few friends are all fond 
+of dancing.","four":"He invited many his friends to the 
+party."},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题是今年专四试卷中出现的新题型，对英语专业同学的语法知识提出了一个更高的要求。考查的是限定词位置的用法。英语中的限定词可分为前位限定词、中位限定词和后位限定词，一个名词前的限定词只能按照前位、中位、后位的顺序出现，其中两个前位或两个中位词不能同时出现在同一个名词前。many是后位限定词，而his是中位限定词，与限定词排序规则有悖，故D为答案。A选项中all是前位，his是中位，符合规则；B中half是前位，his是中位限定词；C中her是中位，few是后位限定词。"}},{"timu":{"title":"When 
+you have finished with that book, don't forget to put it back on my desk, 
+___?","one":"do you","tow":"don't you","three":"will you","four":"won't 
+you"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查的是反义疑问句。复合句的反义疑问句应反问主句部分，本句主句是否定祈使句don’t 
+forget to„，故祈使部分用will you。句意：你读完那本书后，别忘了把它放回我的书桌上，好吗？"}},{"timu":{"title":"What 
+does “He wisely refused to spend his money“ mean? ","one":"It was wise of him to 
+refuse to spend his money.","tow":"He refused to spend his money in a wise 
+manner.","three":"He was short of money and didn't want to buy 
+anything.","four":"He refused, in a wise manner, to spend his 
+money."},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题属于“句意理解题”，也是伴随着57题，作为08专四的新题型，着实让考生出乎意料。本题关键在于分析句中的wisely是修饰refused的，还是修饰refused 
+to spend his 
+money的，可以直接修饰refuse的副词有很多，如firmly，flatly，gracefully，politely等，但是当refuse后接动词不定式短语的时候，副词修饰的就是refuse 
+to do这个动宾结构了。如：resolutely refuse to 
+answer坚决拒绝回答。可见题干中句子的含义是："}},{"timu":{"title":"They stood chatting together as 
+easily and naturally as ____.","one":"it could be","tow":"could be","three":"it 
+was ","four":"was 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"as„as 
+one can表示“尽可能地”。A和B的区别就在于主语不同，B是they could 
+be的省略形式，因为主句中出现的动词是stood，不是be动词，因此该选项中的动词与前面不符；it could 
+be表示的意思是“在可能的情况下”，it指代前面提到的内容。句意：他们站在那儿尽可能地随意聊天。"}},{"timu":{"title":"Quality is 
+____ counts most.","one":"which ","tow":"that ","three":"what ","four":"where 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"句中is后为表语从句，该从句中缺少主语，that引导名词性从句时不做成分，where为地点状语，which引导非限制性定语从句，故这里选what（做双重身份：表语从句引导词和表语从句中的主语）"}},{"timu":{"title":"In 
+his plays Shakespeare _____ his characters live through their 
+language.","one":"would make","tow":"had made","three":"made ","four":"makes 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题考查一般现在时的用法。在书报的标题、球赛现场报导、小说著作等的情况介绍常用一般现在时。如：The 
+Bible says love of money is the root of all evil. "}},{"timu":{"title":"The 
+square itself is five hundred yards wide, five times ____ the size of St. 
+Peter's in Rome. ","one":"/ ","tow":"that of ","three":"which is ","four":"of 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查倍数表达法。本题考查的就是倍数表达法中较为常见的一种：倍数+the 
+size/amount/length/width/depth/weight等抽象名词+of„：The earth is 49 times the size of 
+the moon. 
+其他几种常见的倍数表达法有：倍数+as+adj/adv+as；倍数+adj/adv比较级+than；"}},{"timu":{"title":"Which of 
+the following sentences expresses “probability（可能性）“? ","one":"You must leave 
+immediately.","tow":"You must be feeling rather tired.","three":"You must be 
+here by eight o'clock.","four":"You must complete the reading assignment on 
+time."},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查情态动词的用法。must作为情态动词除了表示命令、必须等意思之外，还有表示肯定推测，可能会怎么样的意思。A：你必须离开；C：你必须8点前到这儿；D：你必须按时完成阅读作业。如上三个意思均为“肯定、必须”。B：你一定感到很累了。表示肯定的判断，表示可能性，故选B。"}},{"timu":{"title":"When 
+he first started in university, he really felt at ___ with his major --- 
+economics.","one":"shore ","tow":"bank ","three":"ocean ","four":"sea 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"at 
+sea是固定搭配，表示“茫然，不知所措”。句意：他开始上大学时对自己所学的经济学专业确实感到很茫然。"}},{"timu":{"title":"On the 
+road motorists should be aware of cyclists and be ____ towards them. 
+","one":"considerable","tow":"considering ","three":"considerate 
+","four":"considered 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"同一词根衍生出来的形容词辨析。considerate意为“考虑他人的，体恤别人的，考虑周详的”=thoughtful；considerable意为“相当的，可观的，数目庞大的”（可以巧记，字母多一个，所以数量大）；considered和considering分别是动词consider的过去分词和现在分词，不符语境，不做形容词，故排除。句意：在路上，开车者应该注意并考虑到骑车的人。"}},{"timu":{"title":"Sally 
+was a bit shy, but the teacher found her quite ___ discussing a recent film with 
+others.","one":"at home","tow":"at most","three":"at house","four":"at heart 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"at 
+home意为“舒适。无拘束”；at most意为“最多，不超过”；at heart意为“在内心里，在本质上”；at 
+house不是固定搭配。句意：萨利有点儿害羞，但是老师发现她在和别人讨论一部新电影时非常从容。"}},{"timu":{"title":"The company 
+has capitalized _____ the error of judgment made by its business 
+competitor.","one":"in ","tow":"over ","three":"with ","four":"on 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"capitalize 
+on是固定搭配，意为“利用”（ 
+充分利用某事物；从某事物中获利；投机倒把；自恃）；句意：该公司利用了商业竞争者判断的失误。capitalize用大写字母写或印刷；使„资本化；估计„的价值；把„定为首都。"}},{"timu":{"title":"Tim 
+has failed three courses this semester, so he will have to _____ them next 
+semester.","one":"remake ","tow":"repeat ","three":"reapply ","four":"revise 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"repeat：重复；remake：重新制作；reapply：重新申请；revise：修改。根据常识考试不及格需要重新课程。句意：蒂姆这学期三门课考试不及格，因此他下学期不得不重修。 
+"}},{"timu":{"title":"Keep this reference book; it may come in _____ one 
+day.","one":"handy","tow":"useful ","three":"convenient ","four":"helpful 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"come 
+in handy意为“迟早会有用，派上用场”；其他几个词与come 
+in无搭配。句意：留着这本参考书，哪天可能会派上用场。"}},{"timu":{"title":"The questions that the speaker 
+raised were well ____ the average adult.","one":"past ","tow":"on 
+","three":"beyond ","four":"through 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"beyond意为“为„所不能及，多于，超出”，其他介词无此义项。句意：一般人实在无法理解这个讲话者提出的问题。"}},{"timu":{"title":"Teachers 
+in this school were encouraged to use drama as a(n) ___ of 
+learning.","one":"design ","tow":"instrument ","three":"agency ","four":"tool 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"tool既可指抽象意义上的工具，也可以指实物。instrument特指专业人员如医生和牙医使用的要求极高精度的仪器，如听诊器或超声波钻等；句意丝毫学习工具，故选tool。design意为“设计”，agency意为“代理”，均不符合题意。句意：这个学校的老师受到鼓励，将戏剧用作学习工具。"}},{"timu":{"title":"First, 
+we need to find out what his scheme is, and then act ___. ","one":"sensitively 
+","tow":"imaginatively ","three":"efficiently ","four":"accordingly 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"accordingly意为“相应地，因此”；sensitively意为“敏感地”；imaginatively意为 
+13 
+“想象上地”；efficiently意为“有效率地”。句意：首先我们需要找出他的设计是什么，然后采取相应行动。"}},{"timu":{"title":"At 
+first Jim was not quite clear what he was going to do after university, but now 
+he seems___ on becoming a computer programmer.","one":"fit ","tow":"set 
+","three":"disposed ","four":"decided 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"set 
+on“着手，打定主意做”；fit on“装上，穿上”；dispose不与on搭配；decide 
+on“决定”。句意：最初吉姆不知道自己大学毕业后干什么，但是现在他似乎决定成为计算机程序员了。dispose 处理，处置；安排。dispose 
+of解决；将（某物）处理掉；驳倒；将（某物）吃光喝完。"}},{"timu":{"title":"When invited to talk about his 
+achievements, he refused to blow his own _____ and declined to speak at the 
+meeting.","one":"trumpet ","tow":"whistle ","three":"bugle ","four":"flute 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":" 
+blow one’s own trumpet为固定搭配，意思是“自吹自擂，自我标榜”=blow one’s own 
+horn。whistle意为“口哨”；bugle意为“喇叭”；flute意为“长笛”，均不能与blow构成固定搭配。句意：被邀请谈自己的成就时，他拒绝自吹自擂，拒绝在会上发言。decline衰退，谢绝（邀请等），（在品格、价值上）降低；衰落。"}},{"timu":{"title":" 
+In spite of the treatment, the pain in his leg grew in__ .","one":"gravity 
+","tow":"extent ","three":"intensity ","four":"amount 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"intensity意为“强度，强烈”；gravity意为“重力，严重”；extent意为“范围，程度”；amount用来指不可数名词的数量。这里句中的treatment与后面的grew 
+in intensity正好构成让步关系。句意：他尽管得到治疗，腿上的疼痛还是加剧了。"}},{"timu":{"title":"Bus services 
+between Town Centre and Newton Housing Estate will be _____ until the motorway 
+is repaired.Bus services between Town Centre and Newton Housing Estate will be 
+___ until the motorway is repaired.","one":"discontinued ","tow":"suspended 
+","three":"halted ","four":"ceased 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"suspend意为“暂停，中止”，是指正是让某事停下来，通常是短时间暂停；discontinue是“停下”，强调的是结果，不涉及停多久的问题；cease也是停下的意思，不涉及时间长短，故选B。句意：在高速公路修复好之前，往返于市中心和牛顿住宅区的巴士服务暂停。"}},{"timu":{"title":"The 
+moon, being much nearer to the Earth than the Sun, is the __ cause of the tides. 
+","one":"principal ","tow":"basic ","three":"initial ","four":"elementary 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":" 
+principal意为“主要的”；basic意为“基础的”；initial意为“最初的”；elementary意为“基本的”。后三个词都没有体现出潮汐出现的主因是月亮这层含义，故选A。句意：月亮距离地球比太阳近得多，它是引起潮汐的主要原因。principal（adj. 
+最重要的；主要的）(n. 首长，负责人)."}},{"timu":{"title":"Teddy came to my ____ with a cheque 
+of $200 to pay my room rate, after I phoned him that my wallet had been 
+stolen.","one":"attendance ","tow":"assistance ","three":"rescue 
+","four":"safety 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"attendance: 
+出席, 出席的人数, 伺候, 照料；come (go) to sb.’s assistance:给某人以帮助；come (go) to sb.’s 
+rescue:进行援救, 营救某人，通常指搭救受到监禁、攻击或死亡威胁的人。safety: 安全, 
+保险。句意：在我打电话给泰德告诉钱包被偷了之后，他带着200美金的支票来帮我，为我付了房租。"}},{"timu":{"title":"Nancy's gone 
+to work but her car's still there. She__by bus.","one":"must have gone 
+","tow":"should have gone","three":"ought to have gone","four":"could have 
+gone"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查情态动词。must用在肯定句中表示较有把握的推测，意为“一定”。当must后接完成时的时候，表示对已发生的事情的推测。根据句意，此处应该为有把握的推测，故选A。句意：南希去上班了，但她的车还在那儿。她一定是坐公交车去的。"}},{"timu":{"title":"He 
+feels that he is not yet___to travel abroad. ","one":"too strong","tow":"enough 
+strong","three":"so strong","four":"strong 
+enough"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查惯用结构。enough 
+to do 
+sth.是惯用结构，enough前必须有其他形容词或副词。句意：他感到自己还没有强壮到可以去国外旅行。"}},{"timu":{"title":"After__seemed 
+an endless wait, it was his turn to enter the personnel manager's 
+office.","one":"that ","tow":"it ","three":"what ","four":"there 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查宾语从句。本句中after后需要一个宾语从句，该宾语从句缺主语，因此需要一个作主语的连接代词。只有what可以在宾语从句中充当主语，故选C。句意：在经过似乎漫长的等待后，轮到他进入人事经理的办公室了。"}},{"timu":{"title":"Fool__Jerry 
+is, he could not have done such a thing.","one":"who","tow":"as ","three":"like 
+","four":"that 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查状语从句。as用作连此时，和though的意义相同，而从句中的实义动词或系动词后的形容词需提前。本句中fool是形容词，位于句首，符合as引导让步状语从句的使用条件，故选B。句意：杰瑞再愚蠢也不可能做出这样的事儿。"}},{"timu":{"title":"She 
+seldom goes to the theatre,__？","one":"doesn't she","tow":"does 
+she","three":"would she","four":"wouldn't 
+she"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查反意疑问句。本句中含有否定含义的副词seldom，故反意时用肯定形式does 
+she。选项A的not与seldom矛盾；选项C和D中的would与句中的goes不吻合。故选B。句意：她很少去剧院，是吗？"}},{"timu":{"title":"Dr 
+Johnson is head of the department,__an expert in translation.","one":"or 
+","tow":"either ","three":"but","four":"and 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题为句意理解题。从句意可以判断，这里的head 
+of the department和an expert in translation说的都是Dr. 
+Johnson，可见两部分之间是并列关系，故选D。句意：约翰逊博士是系主任，翻译专家。"}},{"timu":{"title":"When one has 
+good health,__should feel fortunate. ","one":"you ","tow":"they ","three":"he 
+","four":"we 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查代词。本句为主从复合句，其中时间状语从句的主语为one，因此主句中对应的代词应该用he，故选C。句意：一个人身体健康时应该感到幸运。"}},{"timu":{"title":"It 
+is necessary that he__ the assignment without delay.","one":"hand 
+in","tow":"hands in","three":"must hand in","four":"has to hand 
+in"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查虚拟语气。形容词为necessary，important，impossible，strange，natural，essential等时，在“It 
++ be + 形容词或过去分词 + 
+主语从句”结构中，主语从句要用虚拟语气，其中的should可以省略。故选A。句意：他必须按时交作业。"}},{"timu":{"title":"Which of 
+the following words can NOT be used to complete “We've seen the 
+film__“?","one":"before ","tow":"recently ","three":"lately ","four":"yet 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题为句意表达题，考查的是副词作状语的用法。选项D中的yet用于否定句和疑问句，而原句为陈述句，故选D。"}},{"timu":{"title":"__should 
+not become a serious disadvantage in life and work. ","one":"To be not 
+tall","tow":"Not being tall","three":"Being not tall","four":"Not to be 
+tall"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查非谓语动词。本句中缺失主语。动名词短语作主语时，通常用于表示一件已知的事或经验。不定式短语通常用来表示一件未完成的事或目的。本句中“长得不高”是一件已知的事情，所以选择动名词短语作主语，表示否定意义，not要放在动名词前面，故选B。句意：长得不高不该成为生活和工作中的一个严重不足之处。"}},{"timu":{"title":"Due 
+to personality__ , the two colleagues never got on well in work. 
+","one":"contradiction ","tow":"conflict ","three":"confrontation 
+","four":"competition 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查名词辨析。contradiction意为“矛盾”，指比较抽象的，在观点、意见上的矛盾；conflict意为“冲突”，比矛盾强烈，且可以是针锋相对的，公开的。由句中的never 
+got on well in work可以判断，两人积怨已深，personality 
+conflict指“性格矛盾”，故选B。句意：由于性格冲突，这两个同事在工作上从未相处融洽过。"}},{"timu":{"title":"During the 
+summer vacation, kids are often seen hanging__in the streets.","one":"about 
+","tow":"on ","three":"over ","four":"out 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查固定搭配。hang 
+out意为“出外玩儿、闲逛”；hang about意为“逗留，徘徊”；hang on意为“握住不放，坚持，不挂断”；hang 
+over意为“延续，威胁”。故选D。句意：暑假时，孩子们经常被看到在街上闲玩儿。"}},{"timu":{"title":"There were 150__ 
+at the international conference this summer.","one":"spectators ","tow":"viewers 
+","three":"participants 
+","four":"onlookers"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为名词辨析题。spectator意为“观众”；viewer意为“电视观众、检查员”；participants意为“参与者”；onlooker意为“旁观者”。句中提到的是international 
+conference，显然应该指参会者，故选C。句意：今年夏天，有150人出席该国际会议。"}},{"timu":{"title":"School 
+started on a__ cold day in February.","one":"severe ","tow":"bitter 
+","three":"such ","four":"frozen 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为形容词辨析题。这里需要一个副词来修饰形容词cold。只有选项B中的bitter是副词，有“极其”之意，a 
+bitter cold day表示“极其寒冷的一天”，故选B。severe意为“严重的”，frozen意为“冰冻的”，故排除。若用such的话，应为such a 
+cold day，故排除。句意：学校在二月份的一个酷寒天开学了。"}},{"timu":{"title":"In the face of unexpected 
+difficulties, he demonstrated a talent for quick,__ action. ","one":"determining 
+","tow":"defensive ","three":"demanding ","four":"decisive 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题为形容词辨析题。decisive意为“果断的”，句中的quick和decisive构成近义关系，符合语义衔接关系，故选D。determining是determine（下决心）的现在分词，不能用作形容词；defensive意为“防御的，保卫的“；demanding意为“要求高的，吃力的”。均不符合句意，故排除。句意：面对意想不到的困难，他显示了迅速果断采取行动的才能。"}},{"timu":{"title":"The 
+team has been working overtime on the research project___. ","one":"lately 
+","tow":"just now","three":"late ","four":"long 
+ago"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为副词辨析题。Lately意为“近来”，是用于完成时的一个时间状语，与句中的现在完成进行时吻合，故选A。句意：该小组最近一直加班进行该项目研究。"}},{"timu":{"title":"Because 
+of the economic crisis, industrial output in the region 
+remained__.","one":"motionless ","tow":"inactive ","three":"stagnant 
+","four":"immobile 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为形容词辨析题。motionless意为“不动的，静止的”，immobile意为“不动的，静止的，固定的”，inactive意为“不活动的，怠惰的”。stagnant意为“不景气的”，指“状况不好，没有进步”，尤其是指经济状况不好，符合本句语境，故选C。句意：由于经济危机，该地区的工业生产停滞不前。"}},{"timu":{"title":"The 
+police had difficulty in __the fans from rushing on to the stage to take photos 
+with the singer.","one":"limiting ","tow":"restraining ","three":"confining 
+","four":"restricting 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为动词辨析题。limit，restrict和confine为近义词。limit一般指事先确定空间、时间或数量的极限；restrict意为“限制”，指限制某物的大小、数量等。confine侧重施加不可逾越的限制，有时暗示束缚、囚禁。restrain意为“阻止，抑制”，通常与from搭配，表示“阻止某人做某事”，符合此处语义和语法关系，故选B。句意：警察经常很难阻止歌迷冲到舞台上和歌手照相。"}},{"timu":{"title":"Joan 
+is in the dorm, putting the final__to her speech.","one":"details 
+","tow":"remarks ","three":"comments ","four":"touches 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查固定搭配。put 
+the final touches 
+to为固定搭配，意为“做最后的修饰，完成最后的细节”，其他几词均无此搭配关系，故选D。句意：琼在宿舍里，对演讲稿进行最后的修改。"}},{"timu":{"title":"His__in 
+gambling（赌博）has eventually brought about his ruin.","one":"indulgence 
+","tow":"habit ","three":"action ","four":"engagement 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查固定搭配。indulgence意为“沉迷，沉溺于”，与in搭配使用。本句中的沉迷赌博和后面的ruin构成因果关系，故选A。句意：对于赌博的沉迷让他最终沉沦。engagement订婚，婚约； 
+约会。"}},{"timu":{"title":" The teacher told the students to stay in the classroom 
+and they did___. ","one":"absolutely ","tow":"accidentally 
+","three":"accordingly ","four":"accurately 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为副词辨析题。absolutely意为“绝对地，完全地”；accidentally意为“偶然地，意外地”；accurately意为“准确地，精确地”。accordingly意为“照着，相应地”，由句中的and可以看出学生并未不听老师的话，故选C。句意：老师告诉学生们待在教室里，学生照做了。"}},{"timu":{"title":"You 
+can actually see the deer at close range while driving through that area. The 
+italicized phrase means__ .","one":"clearly","tow":"very near ","three":"quickly 
+","four":"very hard 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查固定搭配。at 
+close range意为“接近地，近距离地”，故选B。句意：实际上在开车经过那一地区时，你能够近距离地看到鹿"}},{"timu":{"title":"He 
+listened hard but still couldn't__what they were talking about.","one":"make 
+over","tow":"make up ","three":"make upon","four":"make 
+out"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查固定搭配。make 
+over意为“转让”；make up意为“补足，构成；化妆”；make upon意为“在„获利，在„上赚钱”。make out意为“理解”，从句中的he 
+listened hard以及but可以判断，后面的结果与listened 
+hard应有的结果不一致，即没听懂，故选D。句意：他仔细听了，但还是没能理解他们在谈论什么。"}},{"timu":{"title":"For the 
+advertised position, the company offers a(n) __salary and benefits package. 
+","one":"generous ","tow":"plentiful","three":"abundant","four":"sufficient 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为形容词辨析题。plentiful意为“大量的，丰富的”；abundant意为“丰富的，充裕的”，语气比plentiful强，数量比plentiful多；sufficient意为“足够的”。generous意为“丰富的”，是指larger 
+or more than the usual size or amount”之意，从句意可知，这里是介绍该职位的优厚条件，因此a generous 
+salary是指优厚的薪酬及高福利。故选A。句意：对于广告上的招聘职位，公司提供丰厚的薪水和高福利。"}},{"timu":{"title":"As there 
+was no road, the travelers__up a rocky slope on their way back.","one":"ran 
+","tow":"hurried ","three":"scrambled ","four":"crawled 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题为动词辨析题。crawl意为“爬行”，是指贴地而爬；run意为“奔跑”；hurry意为“匆忙，赶快”。scramble意为“攀爬”。由于句中提到的是slope，从而可判断此处说的是攀爬，故选C。句意：由于没有路，旅行者在回来的路上爬了一个岩石斜坡。"}},{"timu":{"title":"My 
+uncle is quite worn out from years of hard work. He is no longer the man ___ he 
+was fifteen years ago.","one":"which ","tow":"whom ","three":"who ","four":"that 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题考察定语从句的用法。关系代词在定语从句中做表语时，无论指人还是指物，都只能用that，不用which，且that也可以省略。故选D。再如： 
+China is not the country (that) it was. 中国不是从前的那个国家。 Mary is no longer the girl 
+(that) she used to be. 玛丽不是过去的那个女孩了。 worn out疲惫不堪的;精疲力竭的 "}},{"timu":{"title":" 
+Which of the following sentence is a command（命令）? ","one":"Beg your 
+pardon.（请你原谅）","tow":"Have a good time. ","three":"Never do that 
+again.","four":"What noise you are 
+making."},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察几句常用口语的交际功能。答案显然是C。"}},{"timu":{"title":"Which 
+of the following italicized phrases indicates purpose（目的）?","one":"She said it 
+for fun, but others take her seriously.","tow":"For all its effort, the team 
+didn’t win the match.","three":"Linda has worked for the firm for twenty 
+years.","four":"He set out for Beijing 
+yesterday."},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个介词短语的用法，显然选A。注意：B选项中的for 
+all是一个复合介词，意思是“尽管”，表示让步。"}},{"timu":{"title":"When you have finished with the 
+book, don’t forget to return it to Tom, ___?","one":"do you ","tow":"will 
+you","three":"don’t you","four":"won’t 
+you"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察反义疑问句的用法。我们知道，在否定的陈述句后面用will 
+you?，故选B。"}},{"timu":{"title":"In phrases like freezing cold, burning hot, 
+soaking wet, the present participle（现在分词） is used as ___.","one":"as a 
+command（命令）","tow":"as a condition（条件）","three":"for concession（让步）","four":"for 
+emphasis（强调）"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题考察现在分词做定语的用法，故选D。"}},{"timu":{"title":"Which 
+of the italicized phrase is INCORRECT? ","one":"The city is now ten times its 
+original size. ","tow":"I wish I had two times his strength.","three":"The 
+seller asked for double the usual price. ","four":"They come here four times 
+every year. 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察倍数表达法。答案是B。在英语中，两倍的表达是twice，三倍以上才是three, 
+four, five --- times。"}},{"timu":{"title":" It is not so much the language ___ 
+the cultural background that makes the book difficult to understand.","one":"as 
+","tow":"nor","three":"but ","four":"like 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察习语结构not 
+so much A as B（与其说是A，不容说是B）的用法。故选A。"}},{"timu":{"title":"Which of the following 
+italicized parts is used as an object?","one":"What do you think has happened to 
+her?","tow":" Who do you think the visiting professor is?","three":"How much do 
+you think he earns every month? ","four":"How quickly would you say he would 
+come? 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察疑问词的用法，四个选项中只有how 
+much做宾语，故选C。"}},{"timu":{"title":"The additional work will take ___ 
+weeks.","one":"the other","tow":"another two","three":"other two","four":"the 
+more 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察another的用法，这个词一般修饰单数名词，但也可修饰表示一个整体的复数名词。故选B。"}},{"timu":{"title":"Which 
+of the following italicized parts is a subject clause（主语从句）?","one":"We are 
+quite certain that we will get there in time. ","tow":"He has to face the fact 
+that there will be no pay rise this year. ","three":"She said that she had seen 
+the man earlier that morning.","four":"It is sheer luck that the miners are 
+still alive after ten days. 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题考察名词从句用法，正确答案是D。在本句中的，It做形式主语，that引导的从句做真正的主语。"}},{"timu":{"title":"It’s 
+getting late. I’d rather you ___ now. ","one":"left ","tow":"leave ","three":" 
+are leaving","four":"will leave 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察虚拟语气的用法，I’d 
+rather后面的从句须用虚拟式，若指现在，用一般过去时，若指过去，用过去完成时。正确答案是A。"}},{"timu":{"title":"In the 
+sentence “The manager interviewed Jim himself in the morning” the italicized 
+word is used to modify ___. ","one":"the object","tow":"the verb","three":" the 
+subject","four":"the prepositional 
+phrase"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察反身代词的用法。题干中的himself显然是强调主语the 
+manager，故选C."}},{"timu":{"title":" There is no doubt ___ the couple did the 
+right thing in coming back home earlier than planned.","one":"whether 
+","tow":"that ","three":"why ","four":"when 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考查doubt的一个用法，它后面一般跟由that引导的同位语从句。正确答案是 
+B。"}},{"timu":{"title":"The sentence that expresses OFFER is ___ .","one":"I’ll 
+get some drinks. What’ll you have?","tow":"Does she need to book a ticket 
+now?","three":"May I know your name?","four":"Can you return the book next 
+week?"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察几句常用口语的交际功能。答案显然是A。"}},{"timu":{"title":"Which 
+of the following italicized phrases indicates a subject-predicate 
+relation?","one":" Mr. Smith’s passport has been issued.","tow":"The visitor’s 
+arrival was reported in the news. ","three":"John’s travel details have not been 
+finalized. ","four":" The new bookstore sells children’s stories. 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察名词所有格所表达的逻辑关系，正确答案是B，因为其他选项表示所属关系。 
+"}},{"timu":{"title":"Our office has recently ___ to a new computer system. 
+","one":"altered ","tow":"converted ","three":"transformed ","four":"modified 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察convert的用法，正确答案是B。convert一般用作及物动词，与into搭配使用，例如：The 
+hotel is going to be converted into a nursing home. 
+那家旅馆将被改建为私人疗养院。但是本题考的却是它作为不及物动词的用法，意思是“改用，转变”，常与to搭配使用，例如：The subsidies are to 
+enable farmers to convert to organic production methods. 
+补贴是为了让农民改用有机"}},{"timu":{"title":" The crowd went ___ as soon as the singer 
+stepped onto the stage. ","one":"wild ","tow":"emotional ","three":"uncontrolled 
+","four":"unrestricted 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察形容词wild的一个用法，即go 
+wild，欣喜若狂。"}},{"timu":{"title":"Our school library is ___ closed for 
+repairs.","one":"shortly ","tow":"quickly ","three":"temporarily 
+","four":"rapidly 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个副词，正确答案是C（暂时地）。"}},{"timu":{"title":"John 
+is up to his eyes in work at the moment. The underlined part means ___. 
+","one":"very excited","tow":"very busy","three":" very tired","four":"very 
+efficient 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察短语be 
+up to one’s eyes的用法，正确答案是B。这个短语的意思可以类比be up to one’s 
+ears（深陷---之中）猜测出来。"}},{"timu":{"title":" Victoria bumped into her brother quite 
+by chance in the supermarket. The underlined word means ___.","one":"risk 
+","tow":"opportunity ","three":"probability ","four":"luck 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察短语by 
+chance（偶然）的用法，故选C。"}},{"timu":{"title":"“Look at those pretty girls’ skirts” is 
+___ because it is not clear whether the girls or the skirts are “pretty”. 
+","one":"ambiguous ","tow":"hidden ","three":"indirect 
+","four":"indistinct"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个常见形容词，正确答案是A（歧义的；模棱两可的）。indistinct 
+(看、听)不清楚的;模糊的;难以清楚辨认的。indirect间接的"}},{"timu":{"title":"House repairs, holidays, 
+school fees and other ___ have reduced his bank balance to almost 
+nothing.","one":"amount ","tow":"payment ","three":"expenses ","four":"figures 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个名词，正确答案是C（开支）。"}},{"timu":{"title":" 
+It was really ___ of you to remember my birthday. ","one":"grateful 
+","tow":"thoughtful ","three":"considerable ","four":"generous 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个形容词，正确答案是B（体贴的）。 
+thoughtful沉思的； 体贴的； 缜密思考过的，深思熟虑的 。considerable相当大（或多）的； 
+该注意的，应考虑的。considerate体贴的，体谅的； 深思熟虑。"}},{"timu":{"title":"You can go to a travel 
+agency and ask for a holiday ___. ","one":"introduction ","tow":"advertisement 
+","three":"book ","four":"brochure 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题考察四个名词，正确答案是D（小册子）"}},{"timu":{"title":"The 
+city government is building more roads to ___ the increasing number of 
+cars.","one":"accommodate ","tow":"receive ","three":"accept ","four":"hold 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个动词，正确答案是A。accommodate最常见的意思是“向 
+--- 提供住宿”，本题考的却是它的第二个意思：to provide enough space for sth / sb （容纳），例如：Are there 
+enough shelves to accommodate all our books? 
+有足够的书架容纳我们所有的书吗?"}},{"timu":{"title":"They’ve lifted a two-year-long economic 
+___ on the country.","one":"enclose ","tow":"restriction ","three":"blockade 
+","four":"prohibition"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"：本题考察四个名词，正确答案是C。blockade的意思是“封锁”，常用于短语lift 
+a blockade on（解除对---的封锁）和impose a blockade on（对---实行封锁）。blockade封锁； 
+障碍物。impose强加； 征税；以„欺骗。"}},{"timu":{"title":" Everyone is surprised that she has 
+fallen out with her boyfriend. The underlined part means ___.","one":"left 
+","tow":"quarreled ","three":"attacked ","four":"defeated 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察短语fall 
+out with sb（与某人吵嘴），故选B。defeate击败，战胜"}},{"timu":{"title":" His plan is carefully 
+prepared and full of details, so it is a very ___ one. ","one":"elaborate 
+","tow":"refined ","three":"ambitious","four":"complex 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个形容词，正确答案是A（详尽的）。 
+elaborate复杂的； 
+精心制作的；（结构）复杂的；精巧的。complex复杂的；合成的。ambitious有雄心的；有野心的；有抱负的；炫耀的"}},{"timu":{"title":"She 
+must have been pretty ___ to fall for such an old trick.","one":"interested 
+","tow":"gullible ","three":"enthusiastic ","four":"shrewd 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题考察四个形容词，正确答案是B（容易上当受骗的）。gullible易受骗的，轻信的。shrewd精明的，敏锐的； 
+奸诈的，狡猾的。"}},{"timu":{"title":" The girl’s voice was so low that we could ___ 
+hear her. ","one":"seldom ","tow":"almost ","three":"only ","four":"barely 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题考察四个副词，正确答案是D（几乎不）。"}},{"timu":{"title":"__dull 
+he may be, he is certainly a very successful top executive. ","one":"Although 
+","tow":"whatever ","three":"As","four":"However 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"however引导的让步状语从句,意思是无论(怎么样),从句需要倒装,即However+adj/adv+主+谓. 
+However dull he may be=Dull as he may be. although和as引导让步状语从句,指”尽管”, 
+whatever用来引导名词从句,意思是: 无论什么. 句意: 
+无论他多么地令人感到乏味.他还是一位非常成功的顶级行政人员."}},{"timu":{"title":"If only I __play the guitar 
+as well as you! ","one":"would ","tow":"could ","three":"should 
+","four":"might"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"could表示能够,是一种能力. 
+If only引导的虚拟语气,表示”要是….该多好啊!”. 句意: 要是我能像你那样把吉他弹得那么好该多好啊!"}},{"timu":{"title":"The 
+party, __I was the guest of honour, was extremely enjoyable.","one":"by 
+which","tow":"for which","three":"to which","four":"at 
+which"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"at 
+which. 先行词the party作介词at的宾语. 即I was the guest of honor at the party. 关系代词指代the 
+party."}},{"timu":{"title":"It's high time we __ cutting down the 
+rainforests.","one":"stopped ","tow":"had to stop","three":"shall 
+stop","four":"stop 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"stopped. 
+It is (high) time的意思是到了做…的时候了. 从句中一般用过去时构成虚拟语气. 此句型为历年专四考试常考句型. 
+"}},{"timu":{"title":"The student said there were a few points in the essay he 
+__ impossible to comprehend. ","one":"has found","tow":"was 
+finding","three":"had found","four":"would 
+find"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"had 
+found. 考察定语从句的时态. 定语从句中的”找到问题”这一动作发生先于主句动词said,所以用had 
+found构成过去完成时."}},{"timu":{"title":"Loudspeakers were fixed in the hall so that 
+everyone__ an opportunity to hear the speech.","one":"ought to have","tow":"must 
+have","three":"may have","four":"should 
+have"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"may. 
+so that引导目的状语从句,表示为了让每个人都有机会听到讲座. 其他选项均不符合题意. ought to have done=should have 
+done本应该做而实际未做. must have done表示对过去的肯定猜测. "}},{"timu":{"title":"I am surprised__ 
+this city is a dull place to live in. ","one":"that you should think","tow":"by 
+what you are thinking","three":"that you would think","four":"with what you were 
+thinking"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本句中should表示惊讶语气, 
+故不能省略. 句意:你居然会认为在这个城市居住是很无聊的,这点让我很惊讶. "}},{"timu":{"title":"Susan is very 
+hardworking, but her pay is not__ for her work.","one":"enough good","tow":"good 
+enough","three":"as good enough","four":"good as 
+enough"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":" 
+enough修饰形容词副词时需要后置, 且不能和as结构连用."}},{"timu":{"title":"It is imperative that the 
+government __ more investment into the shipbuilding industry.","one":"attracts 
+","tow":"shall attract","three":"attract ","four":"has 
+to"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"attract 
+考核的是虚拟语气的用法. It is imperative that sb (should)+do/V, should可以省略. 该句型在专四考试中极为常见. 
+句意:当务之急是征服应该吸引更多投资到造船业."}},{"timu":{"title":"Land belongs to the city; there is 
+__ thing as private ownership of land.","one":"no such a","tow":"not 
+such","three":"not such a","four":"no 
+such"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"no 
+such. There is no such (a) thing as…固定用法. 意思是: It is impossible to ….没有…. e.g. 
+There is no such a thing as free lunch. 天下没有免费的午餐."}},{"timu":{"title":"My 
+daughter has walked eight miles today. We never guessed that she could walk__ 
+far.","one":"/ ","tow":"such ","three":"that ","four":"as 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"that=so. 
+那么,如此. The weather today is not that cold as is 
+reported."}},{"timu":{"title":"The statistics __ that living standards in the 
+area have improved drastically in recent times.","one":"proves ","tow":"is 
+proving","three":"are proving","four":"prove 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"prove. 
+statistics表示数字数据时谓语动词用复数. The statistics prove/show 
+that…,这里表示的是一种客观状态,没有明显时态标志,所以用一般时态. "}},{"timu":{"title":"There are only ten 
+apples left in the baskets, __ the spoilt ones.","one":"not counting","tow":" 
+not to count","three":"don't count","four":"having not 
+counted"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"not 
+counting. 伴随状语. 表示不把…计算在内.=not including."}},{"timu":{"title":"It was __ we had 
+hoped .","one":"more a success than","tow":"a success more than","three":"as 
+much of a success as","four":"a success as much 
+as"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"这题是本年专四语法考试中最难的一道题目. 
+as much of a …as是固定结构,类似的结构还有more of a …than, less of a…than, 
+如果是这些比较结构,则名词只能放在比较结构中, 如: It was as much of a success as I had hoped. He is 
+more of a sportsman than his brother. We can let you have as many copies as you 
+need. 所以选项A的正确"}},{"timu":{"title":"There used to be a petrol station near the 
+park, __?","one":"didn't it","tow":"doesn't there","three":"usedn't 
+it?","four":"didn't 
+there"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考察反意疑问句. 
+there be 的反意疑问句就用there来进行反问. "}},{"timu":{"title":"It is an offence to show __ 
+against people of different races.","one":"distinction ","tow":"difference 
+","three":"separation ","four":"discrimination 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"discrimination歧视. 
+show discrimination against sb歧视某人 distinction区别,差别. difference不同, separation分开. 
+句意:对不同种族的人表现出歧视是一种冒犯行为. "}},{"timu":{"title":"A great amount of work has gone 
+into __ the Cathedral to its previous splendor. ","one":"refreshing 
+","tow":"restoring ","three":"renovating ","four":"renewing 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"restoring:使…恢复到以前面貌, 
+通常和to连用. refresh使…精神爽快, renovate更新,革新. renew更新"}},{"timu":{"title":"The thieves 
+fled with the local police close on their __. ","one":"backs ","tow":"necks 
+","three":"toes ","four":"heels 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"heels. 
+on/at one’s heels紧跟在某人后面. 固定搭配,句意为:小偷逃跑了,当地的警察紧随其后追赶. fled逃走，逃掉( flee的过去式和过去分词 
+)； 逃离，逃避。"}},{"timu":{"title":"The economic recession has meant that job__ is a 
+rare thing.","one":"security ","tow":"safety ","three":"protection 
+","four":"secureness 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"security. 
+job security是商务英语中的词汇,意思是工作保障,职业安全感. e.g. The workers agreed to forgo a pay 
+increase for the sake of greater job security. 工人们为了工作更保险, 同意放弃增加工资的要求. 
+secure较safe更加抽象,这里工作保障应属于抽象范畴, 且secure的名词形式是security而非secureness. 
+"}},{"timu":{"title":"Many people nowadays save money to __ for their old 
+age.","one":"cater ","tow":"supply","three":"provide ","four":"equip 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"provide 
+for准备,筹备…., cater for迎合, supply sth to sb为某人提供…, equip with用…装备, 句意: 
+现在许多人存钱是为了防老. "}},{"timu":{"title":"The tone of the article __ the writer's mood 
+at the time.","one":"reproduced ","tow":"reflected ","three":"imagined 
+","four":"imitated 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"reflect反映. 
+reproduce复制,繁殖,再生产. imagine想象, imitate模仿. 
+句意:这篇文章的语调反映了当时作者的心态."}},{"timu":{"title":"This is not the right __ to ask for 
+my help; I am far too busy even to listen","one":"moment","tow":"situation 
+","three":"opportunity ","four":"circumstance 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"moment时候, 
+situation情况, opportunity机会, circumstance 环境. 句意:现在不是让我帮你的时候,我忙得连听你话的时间都没有. 
+"}},{"timu":{"title":"The job of a student accommodation officer__ a great many 
+visits to landladies.","one":"concerns ","tow":"offers ","three":"asks 
+","four":"involves 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"involve包含,涉及,使陷入…中. 
+concern涉及到, offer提供 不符合题意. 句意:学生住宿管理人员的工作包括拜访房东."}},{"timu":{"title":" Our 
+family doctor's clinic __at the junction of two busy roads.","one":"rests 
+","tow":"stands","three":"stays ","four":"seats 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"stands位于=lies 
+in, rest停卧,安防, stay停留, seat坐下. 根据句意,选B. 
+我们的家庭医生的诊所位于两条繁忙道路的交叉点,"}},{"timu":{"title":"She was so fat that she could only 
+just __ through the door.","one":"assemble ","tow":"appear ","three":"squeeze 
+","four":"gather 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"squeeze 
+oneself through从….中挤过去, assemble集合,聚集, appear出现, gather聚集. 她太胖了只能勉强从门口挤过去. 
+"}},{"timu":{"title":"After the heavy rain, a builder was called to repair the 
+roof, which was __.","one":"leaking","tow":"trickling","three":"dripping 
+","four":"floating 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"leaking漏. 
+trickle滴流,细流, drip滴落, float漂浮,漂动. 这里意思是维修正在漏水的房顶. 
+只有leaking合适."}},{"timu":{"title":"The reception was attended by __ members of 
+the local community.","one":"excellent ","tow":"conspicuous ","three":"prominent 
+","four":"noticeable 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"prominent杰出的, 
+突出的,显著的. excellent非常好的. conspicuous 显而易见的, noticeable易见的. 
+参加这次招待会的是当地的显赫人士."}},{"timu":{"title":"Share prices on the Stock Exchange 
+plunged sharply in the 7 morning but __slightly in the 
+afternoon.","one":"regained ","tow":"recovered ","three":"restored 
+","four":"revived"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"recover指身体,心情的恢复,康复,(经济)的恢复; 
+regain恢复,复得,restore归还,修复(到原来的面貌). revive复苏,恢复: may imply recovery from a 
+deathlike state通常是指到了谷底然后复苏,振兴. 题目中提到fell sharply然后下午come back up. 
+revive强调一个由死/谷底反弹的一个过程. 故这里选recover比较合适. 
+且在商务英语的环境中,recover的使用频率和范围都要比revive广."}},{"timu":{"title":"His brain has worked 
+away on the idea of a universal cure. ","one":"rich ","tow":"quick 
+","three":"productive ","four":"fertile 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"quick敏捷的,迅速的. 
+rich丰富的,富裕的, productive 多产的, fertile 有创造力的，思想丰富的"}},{"timu":{"title":"The couple 
+has donated a not__ amount of money to the foundation.","one":"inconsiderable 
+","tow":"inconsiderate ","three":"inaccurate ","four":"incomparable 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"inconsiderable少量的. 
+a not inconsiderable amount of=a large amount of, 
+inconsiderate不体谅的,考虑欠缺的,inaccurate不精确的,.incomparable无与伦比的. 
+句意:这对夫妇向这个基金会捐助了数目可观的一笔钱."}},{"timu":{"title":"There are as good fish in the 
+sea___ ever came out of it.","one":"as ","tow":"like ","three":"than 
+","four":"so 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"as……as结构，纵然失去一个机会，不愁没有其他机会。但是，让你动心的人失去了，就不能再来了……as还是可以作为作成分的关联词来理解"}},{"timu":{"title":"Our 
+association, which has consistently pressed for greater employment opportunities 
+for the disabled, will publish ____ proposals in the near future.","one":"their 
+","tow":"our ","three":"his ","four":"its 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查物主代词。逗号与逗号之间的是作为插入语，是association的定语从句，在此association作为一个整体概念出现，且其定语从句中也是用单数谓语动词has 
+pressed，后面对应的物主代词也应该是单数概念的，故选D。句意：我们的协会一直在敦促给残疾人更多的就业机会，并且讲在最近公布建议书。publish公布，proposal提议；建议，press 
+for敦促； 迫切要求。"}},{"timu":{"title":"Had Judy been more careful on the maths exam, 
+she ____ much better results now.","one":"would be getting","tow":"could have 
+got ","three":"must get","four":"would get 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"考查虚拟语气（错综时间虚拟语气）。从句部分是对过去的虚拟，省略了if，因此出现倒装，但主句部分出现了明显的时间标志词now，可见是对现在的虚拟，故应该是would/could/should/might 
+do的形式，而get为瞬间动词，不用进行时，故选D。句意：如果朱迪数学考试时更认真一些，她现在成绩就会好多了。"}},{"timu":{"title":"Nine 
+is to three ____ three is to one. ","one":"when ","tow":"that","three":"which 
+","four":"what 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"这是专四考试频考知识点了：A 
+is to B what C is to D，由what引导的方式状语从句。句意：9相对于3等同于3相对于1。"}},{"timu":{"title":"Men 
+differ from animals ____ they can think and speak.","one":"for which","tow":"for 
+that","three":"in that","four":"in 
+which"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"这也是专四考试频考的知识点之一：in 
+that引导原因状语从句。for 
+that不能引导从句，A和D都引导定语从句。句意：人之所以有别于动物在于他们能思考，会说话。"}},{"timu":{"title":"___ he 
+wanted to go out with his friends at the weekend, he had to stay behind to 
+finish his assignment. ","one":"Much though","tow":"Much as","three":"As 
+much","four":"Though 
+much"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查由much 
+as引导的让步状语从句，意为“尽管”=although。而as 
+much意为“同样地，这样地”。A和D不是固定搭配。句意：尽管他想周末和朋友出去，却不得不留下完成作业。"}},{"timu":{"title":"I 
+enjoyed myself so much ____ I visited my friends in Paris last 
+year.","one":"when ","tow":"which ","three":"that ","four":"where 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查时间状语从句。四个选项都可以引导定语从句，但这里没有后面从句修饰的先行词，故出现的不是定语从句。从两部分之间的关系来看，后面部分提到了时间段，因此填入when，成为时间状语从句。句意：去年我去巴黎拜访朋友时玩得非常开心。"}},{"timu":{"title":"Which 
+of the following is INCORRECT?","one":"All his lectures were 
+boring.","tow":"Half his money was gone.","three":"Her few friends are all fond 
+of dancing.","four":"He invited many his friends to the 
+party."},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题是今年专四试卷中出现的新题型，对英语专业同学的语法知识提出了一个更高的要求。考查的是限定词位置的用法。英语中的限定词可分为前位限定词、中位限定词和后位限定词，一个名词前的限定词只能按照前位、中位、后位的顺序出现，其中两个前位或两个中位词不能同时出现在同一个名词前。many是后位限定词，而his是中位限定词，与限定词排序规则有悖，故D为答案。A选项中all是前位，his是中位，符合规则；B中half是前位，his是中位限定词；C中her是中位，few是后位限定词。"}},{"timu":{"title":"When 
+you have finished with that book, don't forget to put it back on my desk, 
+_____?","one":"do you","tow":"don't you ","three":"will you","four":"won't 
+you"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查的是反义疑问句。复合句的反义疑问句应反问主句部分，本句主句是否定祈使句don’t 
+forget to„，故祈使部分用will you。句意：你读完那本书后，别忘了把它放回我的书桌上，好吗？"}},{"timu":{"title":"What 
+does “He wisely refused to spend his money“ mean?","one":"It was wise of him to 
+refuse to spend his money.","tow":"He refused to spend his money in a wise 
+manner.","three":"He was short of money and didn't want to buy anything. 
+","four":"He refused, in a wise manner, to spend his money. 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"本题属于“句意理解题”，也是伴随着57题，作为08专四的新题型，着实让考生出乎意料。本题关键在于分析句中的wisely是修饰refused的，还是修饰refused 
+to spend his 
+money的，可以直接修饰refuse的副词有很多，如firmly，flatly，gracefully，politely等，但是当refuse后接动词不定式短语的时候，副词修饰的就是refuse 
+to do这个动宾结构了。如：resolutely refuse to 
+answer坚决拒绝回答。可见题干中句子的含义是："}},{"timu":{"title":"They stood chatting together as 
+easily and naturally as ____.","one":"it could be","tow":"could be","three":"it 
+was","four":"was"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"as„as 
+one can表示“尽可能地”。A和B的区别就在于主语不同，B是they could 
+be的省略形式，因为主句中出现的动词是stood，不是be动词，因此该选项中的动词与前面不符；it could 
+be表示的意思是“在可能的情况下”，it指代前面提到的内容。句意：他们站在那儿尽可能地随意聊天。"}},{"timu":{"title":"Quality is 
+____ counts most.","one":"which ","tow":"that ","three":"what ","four":"where 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"句中is后为表语从句，该从句中缺少主语，that引导名词性从句时不做成分，where为地点状语，which引导非限制性定语从句，故这里选what（做双重身份：表语从句引导词和表语从句中的主语）"}},{"timu":{"title":"In 
+his plays Shakespeare _____ his characters live through their 
+language.","one":"would make","tow":"had made","three":"made ","four":"makes 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"本题考查一般现在时的用法。在书报的标题、球赛现场报导、小说著作等的情况介绍常用一般现在时。如：The 
+Bible says love of money is the root of all evil."}},{"timu":{"title":"The 
+square itself is five hundred yards wide, five times ____ the size of St. 
+Peter's in Rome.","one":"/","tow":"that of ","three":"which is","four":"of 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"考查倍数表达法。本题考查的就是倍数表达法中较为常见的一种：倍数+the 
+size/amount/length/width/depth/weight等抽象名词+of„：The earth is 49 times the size of 
+the moon. 
+其他几种常见的倍数表达法有：倍数+as+adj/adv+as；倍数+adj/adv比较级+than；"}},{"timu":{"title":"When he 
+first started in university, he really felt at _____ with his major --- 
+economics. ","one":"shore ","tow":"bank ","three":"ocean ","four":"sea 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"at 
+sea是固定搭配，表示“茫然，不知所措”。句意：他开始上大学时对自己所学的经济学专业确实感到很茫然。"}},{"timu":{"title":"On the 
+road motorists should be aware of cyclists and be ____ towards 
+them.","one":"considerable ","tow":"considering ","three":"considerate 
+","four":"considered 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"同一词根衍生出来的形容词辨析。considerate意为“考虑他人的，体恤别人的，考虑周详的”=thoughtful；considerable意为“相当的，可观的，数目庞大的”（可以巧记，字母多一个，所以数量大）；considered和considering分别是动词consider的过去分词和现在分词，不符语境，不做形容词，故排除。句意：在路上，开车者应该注意并考虑到骑车的人。"}},{"timu":{"title":"How 
+can I ever concentrate if you continually___me with silly 
+questions?","one":"have, interrupted","tow":"had, interrupted","three":"are, 
+interrupting","four":"were, 
+interrupting"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"[参考译文]你总是不停地问我一些愚蠢的问题，叫我怎能集中注意力呢？ 
+[详细解答]本句中的continually意为―再三地，连续地‖，表示动作在一定时期内连续不断地发生，要用进行时。由于主句用的是现在时，为保持一致从句也应用现在时，故选项C为正确答案。"}},{"timu":{"title":"When 
+you have finished with that video tape, don't forget to put it in my drawer,___? 
+","one":"do you","tow":"will you","three":"don't you","four":"won't you 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"[参考译文]看完那盘录像带后，别忘了把它放到我的抽屉里，好吗？ 
+[详细解答]如果一个句子的前半句为祈使句，祈使句后面的附加疑问句常用will you或won't you，而不用助动词形式do you或don't 
+you。由于此句中祈使句是否定形式，附加疑问句应是肯定，故用will you。"}},{"timu":{"title":"He left orders that 
+nothing___touched until the police arrived here. ","one":"should 
+be","tow":"ought to be ","three":"must be","four":"would be 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"[参考译文]他留下命令，在警察到来之前，不得碰任何东西。 
+[详细解答]当that从句充当order，command等表示说话人的强烈要求、建议、命令的名词性从句（宾语从句或同位语从句）时，从句谓语应用―should+动词原形‖或只用动词原形。故此题应为选A"}},{"timu":{"title":"Mr.White 
+works with a chemical import-export company, but he___for this industrial fair, 
+since he is on leave. ","one":"has worked","tow":"works ","three":"has been 
+worked","four":"is 
+working"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"[参考译文]怀特先生在一家化学制品进出口公司工作，但他目前在休假，正在为此次工业展览会工作。 
+[详细解答]根据句意，谓语应用现在进行时，表示现在正在进行的动作。故选项为D。"}},{"timu":{"title":"He proved himself 
+a___ successor to the former Prime Minister. 
+","one":"worthwhile","tow":"worthiness","three":"worthy","four":"worth"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为C。worthwhile 
+意思是“值得花费时间、金钱或精力的”。worthy 可以表示“值得尊重或者考虑的”，用这一意思时通常做定语。worthiness 是worthy 
+的名词形式。worth 用作表语，意思是“有某种价值的；值得（做某事）”。本句需要填入一个作定语的形容词，所以， C 
+是正确答案。"}},{"timu":{"title":"Your , turn the __ down. ","one":"volume 
+","tow":"voice","three":"sound ","four":"tone 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"volume 
+意思是“音量，响度”，voice 意思是“嗓音”，sound 意思是“声，声音，声响”，tone 
+指“音调，音质；语气，腔调；（乐器的）音质，音色”。"}},{"timu":{"title":"The Channel Tunnel is one of the 
+biggest engineering projects ever ___.","one":"nderstated 
+","tow":"undertaken","three":"undergone ","four":"underneath 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"understate 
+意思是“有节制地陈述或表达；少说，少报”，undertake 意思是“承担，负起..的责任”，undergo 
+意为“经历，经受；接受，承受”，underneath 意为“在.. 
+的下面（介词）；在下面，向下（副词）；底部，底面（名词）”。"}},{"timu":{"title":"He comes from a poor country 
+village in the mountains, so it’s very hard for him to pay the whole school 
+year’s ___ at one time. ","one":"money","tow":"fare 
+","three":"fees","four":"tuition 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为D。money 
+泛指“金钱，货币”；fare 指（公共汽车、轮船、计程车等的）票价； fee 指付给私人教师、医生等的服务费，酬金；tuition 
+尤指大专院校的学费。"}},{"timu":{"title":"Anthony is a very___ person and never wastes 
+anything. ","one":"miserly","tow":"thrifty","three":"economic 
+","four":"conservative 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为B。miserly 
+意思是“似守财奴的，吝啬的”，thrifty 意思是“节检的，节约的”， economic 意思是“经济学的，经济的”，conservative 
+意思是“保守的，守旧的”。"}},{"timu":{"title":"He is seriously ill because his girlfriend 
+has just deserted him. Why don’t you try some occupational____ to remove his 
+mind from distress? ","one":"operation","tow":"therapy ","three":"injection 
+","four":"medicine"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为B。operation 
+指“手术”，therapy 指“疗法”，injection 指“注射”，medicine 指“医术，医学；药”。occupational therapy 
+指“职业疗法”，即给患者创造性或生产性工作以治疗其身心某些疾病的方法。"}},{"timu":{"title":"The government used 
+their emergency powers to____ the truth about the accident. 
+","one":"suppress","tow":"manipulate","three":"control 
+","four":"manage"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为A。suppress 
+意思是“阻止..被知道或看到”，manipulate 指“熟练地控制或操纵（某事物）”，control 意思是“控制”，manage 
+意思是“负责（谋事物），管理，经营”。"}},{"timu":{"title":"The___ of the member countries is 
+supposed to be held recently at Geneva. ","one":"summit 
+","tow":"summary","three":"suffering","four":"summon"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为A。summit 
+意思是“峰会，首脑会晤”，summary 意为“小结”，suffering 指肉体或内心的痛苦，summon 
+意为“传唤，传讯；（法院的）传票"}},{"timu":{"title":"The ghostly presence was just a (n)____ 
+sensation of some 
+people.","one":"objective","tow":"subjunctive","three":"subjective","four":"objected 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为C。objective 
+意为“客观的”，subjunctive 意为“虚拟语气的”，subjective 意为“主观的”，object 
+意思是“反对，抗议”，作动词。"}},{"timu":{"title":"The___ of these islands is still in dispute 
+and the three countries are to have a conference next month to settle the issue. 
+","one":"sovereignty","tow":"right ","three":"authority","four":"power 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为A。sovereignty 
+指“国家主权”；right 指“对某事物的正当要求，做某事的权利”，通常说right to sth./to do sth.；authority 
+指“权利，权威；职权，权限”，power 指“（人的） 
+能力，（生理或精神上的）能力；操纵力，影响力；职权，权势”。"}},{"timu":{"title":"The company is on the , and 
+thousands of jobs are at___. ","one":"danger 
+","tow":"loss","three":"threat","four":"stake"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"答案为D 
+。at a loss 意思是“不知如何是好，茫然，不知所措”，at stake 指“凶吉难卜，好坏无法预料”。可以说in danger 或under 
+threat,但不可以说at danger 或at threat。"}},{"timu":{"title":"That organization____ 
+persons of different political stands. 
+","one":"owns","tow":"embraces","three":"composes","four":"consists 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"答案为B。own 
+尤指以法定权利拥有某物；embrace 表示“欣然接受”；compose 意为“创作(乐曲或诗歌)”，表示“由……构成”时，应用be composed of 
+这一表达；consist of 意思是“由……构成”。根据题意及各选项的用法，正确答案为B。"}},{"timu":{"title":"She always 
+rides the same kind of bike ____ her twin sister 
+does.","one":"that","tow":"which","three":"as","four":"what"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+她总是和她的孪生姐 ( 妹 ) 骑一样的自行车。 【试题分析】 此题为语法题，考查固定搭配。 【详细解答】 先行词是 the same 或受 the same 
+修饰时，定语从句通常用 as 引导，少用 that 引导。"}},{"timu":{"title":"____, I d have done it 
+myself. ","one":"If I it ","tow":"If I had have known it","three":"Had I known 
+it ","four":"Should I known it 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+要是我知道，我就自己把它做了。 【试题分析】 此题为语法题，考查虚拟语气的省去 if 的形式。 【详细解答】 if 条件句中包含有 should, had, 
+were 则可省去 if 并把 should, had, were 移到句首，构成倒装句式，而意思不变。"}},{"timu":{"title":"The 
+sun s appearing to rise in the east is ____ the revolution of the earth on its 
+axis from west to east. ","one":"owe to","tow":"due to","three":"as 
+to","four":"as 
+for"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+太阳似乎从东方升起是因为地球绕着地轴自西向东运转。 【试题分析】 此题考查词义辨析。 【词义辨析】 owe 是动词，常用作 owe … to 
+意为“把……归于……”，“靠……而”； due "}},{"timu":{"title":"It was because she was too 
+inexperienced ____ she didn’t know how to deal with the situation. ","one":"so 
+that","tow":"that","three":"that is 
+why","four":"so"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+正是因为她太没经验才不知道如何应付这种情形。 【试题分析】 此题为语法题。 【详细解答】 这是一个 it is … that …的强调句型，因此选 B 
+。强调部分是 because she was too inexperienced 。"}},{"timu":{"title":"We obey him, 
+____ we are afraid of him, ____ we honor and love him. ","one":"not for, but 
+for","tow":"not as, but as","three":"not that, but that ","four":"not since, but 
+since 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+我们服从他，并不是因为我们怕他，而是尊敬他，爱戴他。 【试题分析】 此题考查句子结构和对句意的理解。 【详细解答】 not that … but that 意同 
+not because … but because, 表示两个原因和理由，一正一反，前后对比。 "}},{"timu":{"title":"____ from 
+space, the earth looks like a huge water covered globe. ","one":"Having 
+seen","tow":"Seeing","three":"To see","four":"Seen 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+从太空看，地球像是一个巨大的被水覆盖的球体。 【试题分析】 此题为语法题，考查主谓一致。 【详细解答】 过去分词 seen 
+表示被动意义。过去分词短语作状语时，其逻辑主语是句子的主语。地球是被看的对象，而不是看这个动作的发出者， seeing, having seen 
+是现在分词，表示主动的意义，所以不可选用。 to see 
+是不定式，不定式短语放在句首，通常表示目的，也不能选用。"}},{"timu":{"title":"___ the increase in air fares, 
+most people still prefer to travel by plane. ","one":"No matter 
+how","tow":"Though","three":"Regardless","four":"Despite"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+尽管机票涨价，大多数人还是更喜欢乘飞机旅行。 【试题分析】 此题考查词的用法辨析。 【详细解答】 no matter how 不管，无论，引导让步从句； 
+regardless 不顾，应与 of 连用； though 尽管引导让步从句； despite 
+尽管，不顾，后面接名词或名词性词组。"}},{"timu":{"title":"Now the need ____ foreign languages is 
+becoming greater and greater.","one":"to learn","tow":"learning","three":"to be 
+learned","four":"being learned 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+现在越来越需要学习外语了。 【试题分析】 此题为语法题。 【详细解答】 动词不定式短语修饰抽象名词 need ，相当于形容词的作用。不定式被动式不可采用。 B 
+、 D 也是错误的。 "}},{"timu":{"title":"He has been studying here for three years, by 
+next summer he ____.","one":"will graduate","tow":"will be 
+graduated","three":"will have graduated ","four":"will be 
+graduating"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+他一直在这儿学习，已有三年了，明年夏天就毕业。 【试题分析】 此题为语法题，考查句子时态。 【详细解答】 
+将来完成时主要表示将来某时将会发生的事情，一般要用表示将来的时间状语，如： by 或 before 引导的介词词组或 before 引导的时间状语从句。 
+"}},{"timu":{"title":"She didn’t answer the telephone, she ____ asleep. 
+","one":"must fall","tow":"must have fallen","three":"should have 
+fallen","four":"can have fallen 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+她没有接电话，她一定是睡着了。 【试题分析】 此题为语法题。 【详细解答】 “ must+have+ 
+过去分词”表示对过去发生的动作或存在的状态作可能性最大的推测，意为“必定，已经”。 can+have+ 
+过去分词，表示对过去发生的行为怀疑或不肯定。有本来可能做而没有做的意思，是虚拟语气用法。“ should+have+ 
+过去分词”表示过去应该做而实际上未来得及做的事，有本该的意思。 "}},{"timu":{"title":"Electrical energy ____ 
+from the sun in a round way is the most widely used energy today. 
+","one":"come","tow":"to come","three":"coming","four":"having 
+come"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+间接来自太阳的电能是今天最广泛使用的能量形式。 【试题分析】 此题考查句子结构。 【详细解答】 
+现在分词短语作主语，表示主动和正在进行的动作或表示经常性的动作。不定式作定语修饰的名词是不定式意义上的主语或宾语。"}},{"timu":{"title":"You 
+remain about the same as when you parted with us ____ you’ve got a little 
+thinner. ","one":"except for","tow":"besides","three":"except that 
+","four":"because 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+你仍然是我们分别时的样子，只是更瘦了一点。 【试题分析】 此题为词的用法辨析题。 【详细解答】 except for 
+除……以外，其后一般接名词，代词，用来表示理由或细节，修饰前面所述的情况。 except that 其后接从句，可与 except for 换用，但用法有区别。 
+besides 作介词其后常用名词，动名词或 what 引导的从句，意为“除……以外 ( 还 ) 
+”。"}},{"timu":{"title":"Fertilizers are used primarily to enrich the soil and 
+____ yield. ","one":"increasing","tow":"increase","three":"to 
+increase","four":"have increased 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+使用化肥主要是为了使土壤肥沃并提高产量。 【试题分析】 此题考查平行结构。 【详细解答】 to increase 用来与 to enrich 
+保持结构上的平行。"}},{"timu":{"title":"A beam of light will not bend round corners 
+unless ____ to do so with the help of a reflecting device. 
+","one":"made","tow":"being made","three":"having made","four":"to be 
+made"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+一束光不会在拐角处弯折，除非靠着反射物体才会被迫如此。 【试题分析】 此题为语法题。 【详细解答】 unless made 状语从句中省略了 it is 
+。完整的句子应是 unless it is made …科技文献中常可见到这种语法现象。"}},{"timu":{"title":"He has a large 
+collection of books, ____ are written in English. ","one":"many 
+among","tow":"many in which","three":"many ones of which ","four":"many of 
+which"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+他有大量藏书，其中有许多是用英文写的。 【试题分析】 此题为语法题，考查非限定性定语从句。 【详细解答】 many of which are written 
+in English 是一个关系代词带前置介词 of 的非限定性从句。 which 代替 books 。 many of which 
+在从句中作主语。"}},{"timu":{"title":"I don t think it is funny, but my friend ____. 
+","one":"cannot help to laugh","tow":"cannot help laugh","three":"cannot but 
+laughing","four":"cannot help but laugh 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+我觉得不好笑，但我的朋友情不自禁地笑了。 【试题分析】 此题考查语法结构。 【详细解答】 表示“不得不，情不自禁”可以用以下几种结构： 1) cannot 
+help+ 动名词； 2) cannot help but+ 动词原形； 3) cannot but+ 
+动词原形。"}},{"timu":{"title":"Science and technology have brought ____ many changes 
+in our lives. ","one":"forward","tow":"about","three":"out ","four":"to 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+科学技术给我们生活带来许多变化。 【试题分析】 此题考查词义辨析。 【详细解答】 bring forward 提出，显示； bring about 带来，造成； 
+bring out 出版，生产； bring to 停下，恢复知觉。 "}},{"timu":{"title":"With the map of the 
+city to help them, they had no ____ the place. ","one":"difficulties in 
+finding","tow":"difficulty in finding ","three":"difficulty to find 
+","four":"trouble to find 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+有了地图的帮助，他们毫无困难地找到了那个地方。 【试题分析】 此题考查固定结构。 【详细解答】 difficulty 相当于 trouble( 麻烦，困难 ) 
+，是不可数名词，常用句型为 have some (no/little) difficulty (in) doing 
+sth."}},{"timu":{"title":"It is difficult to understand this kind of ____ 
+calculation. ","one":"intricate ","tow":"varied ","three":"indispensable 
+","four":"equable 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+很难理解这种错综复杂的计算。 【试题分析】 此题为词义辨析题。 【词义辨析】 intricate 错综复杂的，纠缠不清的； varied 不同的，种种的； 
+indispensable 不可缺少的，绝对必要的； equable 变动甚少的，稳定的。 "}},{"timu":{"title":"Industrial 
+managers employ specialists to keep machines working properly and to ___ the 
+supply of spare parts. 
+","one":"ensure","tow":"promise","three":"guarantee","four":"assure 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+产业经理雇佣专家以保持机器正常运转从而确保零件的供应。 【试题分析】 此题为词义辨析题。 【词义辨析】 ensure 保证，让人觉得安全可靠，有保障； 
+promise 与 assure 相似，让人踏实放心，但不承担责任和义务； guarantee 担保，保证，表示对某一产品或服务承担责任和义务； assure 
+郑重宣告，使人确信。"}},{"timu":{"title":"The competition is open to both professionals 
+and ____. ","one":"aliens","tow":"amateurs ","three":"juniors","four":"editors 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+这次竞赛既面向专业人士也面向业余爱好者。 【试题分析】 此题为词义辨析题。 【词义辨析】 aliens 外国人； amateurs 业余爱好者； juniors 
+年少者； editors 编辑。 "}},{"timu":{"title":"They did their utmost and made ____ 
+progress in a short time. 
+","one":"remarkable","tow":"obvious","three":"unapparent 
+","four":"spectacular"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+他们尽了力，在短期内取得了显著的进步。 【试题分析】 此题为词义辨析题。 【详细解答】 remarkable 不平常的，显著的； obvious 
+显然的，明白的； unapparent 不明显的； spectacular 壮观的，奇观的。 "}},{"timu":{"title":"I would 
+rather not ____ him until I m absolutely sure that he is trustworthy. 
+","one":"rely on","tow":"believe in","three":"count for ","four":"rely in 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+我只有绝对相信他值得依赖时，我才愿意指望他。 【试题分析】 此题考查词义辨析。  【词义辨析】 rely on 相信，信赖（某人或某物）； believe 
+in 相信，信奉（信仰），其后常接真理，宗教原则之类的词； count for 有……价值，有重要性； rely in 的搭配正确。 
+"}},{"timu":{"title":"We all ____ him because, although he was stern, he was 
+fair. ","one":"looked out upon","tow":"looked up at ","three":"looked up to 
+","four":"looked out 
+for"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+我们都很尊敬他。尽管他很苛刻，但他待人公正。 【试题分析】 此题考查词义辨析。 【词义辨析】 look out upon 面临，濒临； look up at 
+观察，观看； looked up to 崇敬，尊敬； looked out for 注意，查找，寻找。"}},{"timu":{"title":"His 
+success doesn’t ____ his cleverness. Hard working ____ progress. ","one":"lie on 
+… lead to","tow":"lead to … leads to","three":"lead to … lie in","four":"lie in 
+… leads 
+to"},"daan":{"daan_one":"","daan_tow":"","daan_three":"","daan_four":"D"},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+他的成功不在于他的聪明，是勤奋导致了进步。 【试题分析】 此题考查句意理解及词义辨析。 【详细解答】 lie on 表示“依赖”； lie in 表示“在于”； 
+lead to “导致，引起”。"}},{"timu":{"title":"The old man has the ____ habit of 
+forgetting to tie his shoes. 
+","one":"unusual","tow":"ignorant","three":"peculiar ","four":"crazy 
+"},"daan":{"daan_one":"","daan_tow":"","daan_three":"C","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+那位老人有个古怪的习惯，他总是忘记系鞋带。 【试题分析】 此题考查词义辨析。 【词义辨析】 unusual 不普通的，指不平常或不通常； ignorant 
+无知的，不明白的； peculiar 奇怪的，怪癖的，指奇怪和难以理解或解释的； crazy 发狂的，发疯的。 
+"}},{"timu":{"title":"After a long time coordination, the ____ between them has 
+been made. ","one":"consequence","tow":"contract 
+","three":"convenience","four":"contention 
+"},"daan":{"daan_one":"","daan_tow":"B","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+经过长期合作，他们之间的契约已经订好了。 【试题分析】 此题为词义辨析。 【词义辨析】 consequence 结果，重要； contract 合同，契约； 
+convenience 适合，方便； contention 评论，辩论。 "}},{"timu":{"title":"We have ____ the 
+serious flood disaster and made advances in agriculture. ","one":"overcome 
+","tow":"conquered ","three":"succeeded","four":"defeated 
+"},"daan":{"daan_one":"A","daan_tow":"","daan_three":"","daan_four":""},"types":{"types":"单选"},"detail":{"detail":"【参考译文】 
+我们已经战胜了严重的洪涝灾害，在农业方面取得了进展。 【试题分析】 此题为词义辨析题。 【词义辨析】 overcome 战胜，克服，指成功地和某人某物进行斗争； 
+conquer 征服，战胜，指用武力占领土地或击败敌人； succeed 成功，继承； defeat 击败，打败 "}}]}
